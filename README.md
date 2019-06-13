@@ -1,7 +1,7 @@
 # School Project in Java
 This project is a mini-version of the system my school uses for administration.  It creates a school and displays a menu to guide the user.
 
-<br>Project — School Project(C++)
+<br>Project — School Project(Java)
 <br>By — Faruq Eniola Hammed
 <br>Date — April 21st 2019
 <br>Technology Used: Java
